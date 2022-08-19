@@ -1,0 +1,17 @@
+2022-08-18 07:34:59,131 Trying to download File of :2022-Aug-11
+2022-08-18 07:35:02,816 File Available.Downloading
+2022-08-18 07:35:02,826 Trying to download File of :2022-Aug-12
+2022-08-18 07:35:06,103 File Available.Downloading
+2022-08-18 07:35:06,109 Trying to download File of :2022-Aug-15
+2022-08-18 07:35:07,104 ******File Not Available.Moving to next date.
+2022-08-18 07:35:07,108 Trying to download File of :2022-Aug-16
+2022-08-18 07:35:10,397 File Available.Downloading
+2022-08-18 07:35:10,410 Trying to download File of :2022-Aug-17
+2022-08-18 07:35:14,088 File Available.Downloading
+2022-08-18 07:35:14,095 Trying to download File of :2022-Aug-18
+2022-08-18 07:35:14,952 ******File Not Available.Moving to next date.
+2022-08-18 07:35:14,953 ****************************************************************************************
+2022-08-18 07:35:14,953 No. of files downloaded=4
+2022-08-18 07:35:14,953 Span= 2022Aug11 to 2022Aug18
+2022-08-18 07:35:14,953 No. of weekdays in the given time span=6
+2022-08-18 07:35:14,953 ****************************************************************************************
